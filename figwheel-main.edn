@@ -1,0 +1,3 @@
+{:watch-dirs ["src" "admin-src"]
+ :connect-url "ws://192.168.1.42:3449/figwheel-connect"
+ :css-dirs ["resources/public/css"]}
